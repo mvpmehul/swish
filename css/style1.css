@@ -1,0 +1,134 @@
+a{ text-decoration:none;}
+a:hover{ text-decoration:none;}
+.banner-sec{ background:url(../images/busennes-banner.jpg) no-repeat; background-size:cover; min-height:550px; text-align:right;}
+.banner-title{ margin:0; padding:0; font-size:47px; color:#ffdf48; font-family:Arial, Helvetica, sans-serif; margin-bottom:24px; text-align:right;}
+.banner-descr{ font-size:18px; color:#FFF; font-family:Arial, Helvetica, sans-serif; line-height:1.5; margin-bottom:60px; text-align:right; padding-left:140px;}
+.button{ border:solid 2px #FFF; font-size:17px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; border-radius:20px; max-width:250px; padding:5px 0px; display:inline-block; color:#FFF; text-align:center; width:250px; margin-right:35px; margin-bottom:15px;}
+.button:hover{ color:#000; background:#ffdf48; border:solid 2px #ffdf48;}
+.banner-text{ padding-top:96px;}
+.margin{ margin-right:35px;}
+.logo-images{ text-align:center; margin-top:20px;}
+.compny-title{ margin-top:58px; margin-bottom:56px; font-family:Arial, Helvetica, sans-serif; font-size:47px; color:#000; font-weight:bold;}
+.logo-images p{ font-size:24px; color:#000; line-height:34px; font-family:Arial, Helvetica, sans-serif;}
+.compny-list ul li{ list-style:disc; font-size:23px; line-height:34px; color:#000; font-family:Arial, Helvetica, sans-serif;}
+.compny-list{ margin-top:27px; margin-bottom:70px;}
+.compny-sec{ padding-bottom:65px;}
+.compny-sec:after{ background-size:cover; display:block; text-align:center; content:""; margin:0 auto; background:url(../images/sepret-line.png); width:352px; height:1px;}
+.secon-banner-sec .banner img{ width:100%; }
+.program-sec{ text-align:center; padding-top:100px;}
+.program-sec a{ font-size:20px; color:#11409c; font-weight:bold; font-family:Arial, Helvetica, sans-serif; }
+.program-title{ font-size:35px; line-height:35px; color:#000; font-family:Arial, Helvetica, sans-serif; font-weight:bold; margin-top:52px; margin-bottom:50px;}
+.program-list ul li{ list-style:disc; font-size:20px; line-height:35px; font-weight:bold; font-family:Arial, Helvetica, sans-serif;}
+.secon-banner-sec{ padding-bottom:75px;}
+.divace p{ width:70%; margin:0 auto; margin-bottom:35px;}
+.divace .button{ color:#000; background:#ffdf48; border-color:#ffdf48; margin-top:23px;}
+.divace{ padding-top:36px;}
+.divace .compny-title{ margin-top:89px; margin-bottom:44px;}
+.divace.compny-sec:after{ display:none;}
+.divace.compny-sec{ padding-bottom:57px;}
+
+.banner-sec.helth{ background:url(../images/helth-banner.jpg); background-size:cover;}
+.banner-sec.helth .banner-text{ padding-top:165px; }
+.helth .banner-title{ margin-bottom:14px;}
+.helth .banner-descr{ margin-bottom:30px;}
+.deacidification-sec{ background:#f4f4f4; text-align:center; padding:75px;}
+.cont a{ text-decoration:none; font-size:21px; color:#f2bc29; font-weight:bold; font-family:Arial, Helvetica, sans-serif;}
+.cont .deac-title{ font-size:30px; font-family:Arial, Helvetica, sans-serif; margin-top:30px; margin-bottom:100px;}
+.descri{ width:80%; margin:0 auto; line-height:1.5; font-size:18px; color:#232323; margin-bottom:38px;}
+.cont a.button.bg-btn{ font-size:18px; font-family:Arial, Helvetica, sans-serif; color:#2c2c2c; width: inherit; max-width: inherit; background:#ffdf48; border-color:#ffdf48; padding:5px 20px; }
+.images{ margin-bottom:75px;}
+.cont .button-sec{ margin-bottom:17px;}
+.anti-sec{ text-align:center; padding:75px 75px 0;}
+.anti-sec .cont .deac-title{ margin-bottom:27px;}
+.anti-sec .descri{ margin-bottom:50px;}
+.anti-sec .cont .button-sec{ margin-bottom:0;}
+.anti-sec:after{ background-size:cover; display:block; text-align:center; content:""; margin:0 auto; background:url(../images/sepret-line.png); width:352px; height:1px;}
+.anti-sec .cont{ padding-bottom:75px;}
+.anti-sec.hydration .images{ margin-top:10px; margin-bottom:45px;}
+.anti-sec.hydration .descri{ margin-bottom:30px;}
+.anti-sec.hydration .cont{ padding-bottom:110px;} 
+
+
+.research .banner-title{ text-align:left;}
+.research .banner-descr{ text-align:left; padding:0;}
+.research .button-sec{ text-align:left;}
+.margin-left{ margin-left:40px;}
+.research .banner-title{ margin-bottom:27px;}
+.research .banner-sec{ background:url(../images/research.png); background-size:cover; min-height:565px;}
+
+
+.thambnail{ text-align:center; margin-bottom:30px;}
+.thambnail img{ border-radius:50%;}
+.box-cont{ text-align:center;}
+.box-link{ font-size:21px; color:#191919; font-weight:bold; font-family:Arial, Helvetica, sans-serif; display:block; margin-bottom:10px;}
+.box-title{ font-size:35px; line-height:1.5; color:#212121; font-family:Arial, Helvetica, sans-serif; margin-bottom:33px;}
+.box-descri{ font-size:18px; color:#232323; font-family:Arial, Helvetica, sans-serif; margin-bottom:30px; }
+.box-cont .button{ width:inherit; max-width:inherit; margin:0; padding:8px 30px; background:#ffdf48; border-color:#ffdf48; color:#000; font-size:14px; font-family:Arial, Helvetica, sans-serif; margin-bottom:30px; margin-right:15px;}
+.box{ padding:47px; margin-top:47px;}
+.box-cont:after{ background-size:cover; display:block; text-align:center; content:""; margin:0 auto; background:url(../images/sepret-line.png); width:352px; height:1px;}
+.container{ max-width:1111px !important; margin:0 auto; display:block;}
+
+
+@media (max-width:767px){
+		.banner-title{ text-align:center; font-size:36px;}
+		.margin{ margin:0;}
+		.banner-descr{ text-align:center; padding:0; font-size:16px;}
+		.button-sec{ text-align:center;}
+		.compny-title{ font-size:36px; margin:25px 0;}
+		.compny-list ul li{ font-size:20px;}
+		.compny-list.left{ margin-bottom:0;}
+		.compny-list.right{ margin-bottom:40px;}
+		.compny-sec{ padding-bottom:40px;}
+		.program-sec{ padding-top:35px;}
+		.program-title{ margin-top:20px; font-size:25px; margin-bottom:25px;}
+		.program-list ul li{ font-size:18px;}
+		.secon-banner-sec{ padding-bottom:0;}
+		.divace{ padding-top:15px;}
+		.divace .compny-title{ margin:40px 0 25px;}
+		.logo-images p{ font-size:18px; width:85%;}
+		.divace p{ margin-bottom:25px;}
+		.divace.compny-sec{ padding-bottom:20px;}
+		.divace .button{ margin-top:0;}
+		.cont .deac-title{ font-size:25px;}
+		.anti-sec{ padding-top:0;}
+		.anti-sec .cont{ padding-bottom:25px;}
+		.anti-sec.hydration .cont{ padding-bottom:0;}
+		.descri{ font-size:15px; width:90%;}
+		.anti-sec{ padding:0;}
+		.deacidification-sec{ padding:30px 0 0 0;}
+		.margin-left{ margin:0;}
+		.box{ margin-top:0;}
+		.box-title{ font-size:28px;}
+		.box{ padding-bottom:0;}
+		body .program-list ul, body .compny-list ul{ margin-left:40px;}
+	}
+	
+	@media (max-width:575px){
+			.thambnail{ margin-bottom:40px;}
+			.box-title{ font-size:26px;}
+			.box{ padding:0;}
+			.box-title{ font-size:28px;}
+		}
+	
+@media (max-width:480px){
+	.banner-title{ font-size:30px;}
+	.banner-descr{ font-size:14px; margin-bottom:20px;}
+	.button{ margin-right:0;}
+	.compny-title{ font-size:30px;}
+	.logo-images p{ width:100%;}
+	.compny-list ul li{ font-size:16px;}
+	.logo-images p{ margin:0;}
+	.program-sec a{ font-size:12px;}
+	.program-title{ font-size:18px; line-height:1.5;}
+	.program-list ul li{ font-size:16px;}
+	.compny-title{ font-size:25px;}
+	.logo-images p{ font-size:14px; line-height:1.5; margin-bottom:10px;}
+	.compny-sec:after{ width:100%; max-width:100%;}
+	.descri{ width:100%;}
+	.cont .deac-title{ font-size:18px; line-height:1.5;}
+	.cont .deac-title{ font-size:18px !important;}
+.cont .deac-title{ margin-bottom:40px;}
+.images{ margin-bottom:35px;}
+.anti-sec:after{ width:100%; max-width:100%;}
+.cont a.button.bg-btn{ font-size:14px;}
+	}
